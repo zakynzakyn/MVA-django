@@ -1,0 +1,15 @@
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\bin\Microsoft.PythonTools.WebRole.dll
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\obj\Debug\attach_server.py
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\obj\Debug\visualstudio_py_debugger.py
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\obj\Debug\visualstudio_py_repl.py
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\obj\Debug\visualstudio_py_util.py
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\obj\Debug\__init__.py
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\obj\Debug\__main__.py
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\bin\AzureSetup.cfg
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\bin\wfastcgi.py
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\obj\Debug\deployment-updated-pyvenv.cfg
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\ptvs_virtualenv_proxy.py
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\obj\Debug\web.config
+D:\_moje\_git\MVA-django\MyDjangoWebProject\MyDjangoWebProject\obj\Debug\web.debug.config
